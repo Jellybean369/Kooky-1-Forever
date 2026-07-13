@@ -2,7 +2,7 @@
 # Kooky-1-Forever
 Sonic, lost his mind, and is cursed to become a diva...
 
-- B
+- Brought to you by: Studio Project 2020 [![](https://images.gamebanana.com/img/banners/studios/6354c816ea4fd.gif)](https://gamebanana.com/studios/35931)
 
 # Notes
 
