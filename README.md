@@ -16,4 +16,4 @@ There is a test build available, on Google Drive, synced from my PC, and changes
 https://drive.google.com/drive/folders/1o7WNttLL_lXoNZMrJOOhSFwPpxeYlbsm
 
 # ] EXPERIMENTAL [ Sonic Kooky (K1F demake to S1 2013)
-A port/demake of Kooky 1 Forever to Sonic 1 2013 is available via this Google drive link (semi nightly): https://drive.google.com/drive/folders/1adqcTV4E5SA0R9gZp_FM7q83OPwZ08Yu?usp=sharing or in the releases tab here
+A port/demake of Kooky 1 Forever to Sonic 1 2013 is available via this Google drive link (semi nightly): https://drive.google.com/drive/folders/1adqcTV4E5SA0R9gZp_FM7q83OPwZ08Yu?usp=sharing or in the releases tab here: https://github.com/Jellybean369/Kooky-1-Forever/releases/download/1.0/Sonic_Kooky.zip
