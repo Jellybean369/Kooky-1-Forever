@@ -1,5 +1,5 @@
 [![](https://gamebanana.com/mods/embeddables/693760?type=sd_image)](https://gamebanana.com/mods/693760)
-# Kooky-1-Forever
+# Kooky 1 Forever
 Sonic, lost his mind, and is cursed to become a diva...
 
 - Brought to you by: Studio Project 2020 [![](https://images.gamebanana.com/img/banners/studios/6354c816ea4fd.gif)](https://gamebanana.com/studios/35931)
